@@ -1,7 +1,6 @@
 # Kuis Matematika v2.0 Alpha
-## By : Dharma Bakti Situmorang ( [luhur65](https://github.com/luhur65) )
 
-**Menggunakan Python v3.5**
+Menggunakan Python v3.5
 
 
 ### Installation
